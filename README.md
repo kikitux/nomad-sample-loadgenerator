@@ -8,3 +8,4 @@ ideas:
   
 https://github.com/svanderburg/disnix-proxy-example
 
+https://nileshgr.com/2016/07/09/systemd-fastcgi-multiple-processes
